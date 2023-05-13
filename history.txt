@@ -1,0 +1,276 @@
+    1  cls
+    2   git init
+    3  git status
+    4  git add .
+    5  git add .
+    6  git commit -m "First commit"
+    7  git remote add origin https://github.com/ThatoTshoma/DemoApp.git
+    8  git remote add origin https://github.com/ThatoTshoma/DemoApp.git
+    9  git push -u origin main
+   10  git push -u origin main
+   11  git push -u origin master
+   12  [200~$
+   13  git push -u origin 
+   14  git push -- set-upstream original master
+   15    git push --set-upstream origin master
+   16  fir clear
+   17  git clear
+   18  git clean
+   19  git status
+   20  git status
+   21  git init
+   22  git status
+   23  git add .
+   24  git add .
+   25  git commit -m "first commit"
+   26  git remote add origin https://github.com/ThatoTshoma/DemoApp.git
+   27  git push -u origin master
+   28  git push -u origin 
+   29   git push --set-upstream origin master
+   30   git push --set-upstream origin
+   31  see 'push.autoSetupRemote' in 'git help config'
+   32  push.autoSetupRemote
+   33  git push.autoSetupRemote
+   34   git config --global user.email "tshomathato1@gmail.com"
+   35   git config --global user.name "DemoApp"
+   36  git push -u origin master
+   37  git branch -M master
+   38  git remote add origin https://github.com/ThatoTshoma/DemoApp.git
+   39  git push -u origin master
+   40  git push -u origin
+   41  git remote add origin https://github.com/ThatoTshoma/DemoApp.git
+   42  git branch -M master
+   43  git push -u origin master
+   44  git push origin master --force
+   45  git push -f origin main
+   46  git push -f origin master
+   47  git commit -m "my commit"
+   48  git remote add origin https://github.com/ThatoTshoma/DemoApp.git
+   49  git push -u origin main
+   50  git branch -M master
+   51  git push -u origin master
+   52  git commit -m "mod Login"
+   53  get init
+   54  git int
+   55  git init
+   56  git commit -m "first commit"
+   57  git branch -M main
+   58  git remote add origin https://github.com/ThatoTshoma/E-LearningApp.git
+   59  git push -u origin master
+   60  git status
+   61  git init
+   62  git init
+   63  git status
+   64  git clear
+   65  git clean
+   66  git clearn =i
+   67  git clean -i
+   68  git status
+   69  THATO TSHOMA@DESKTOP-GA2DJ4Q MINGW64 ~/Desktop/StudentUser (main)
+   70  $ git init
+   71  git init
+   72  git status
+   73  git clean .
+   74  git commit -m "first commit"
+   75  clean
+   76  git init
+   77  git status
+   78  git commint -a
+   79  git commit -a
+   80  git init
+   81  git status
+   82  git add .
+   83  git status
+   84  git commit
+   85  git commit -m "DropdownList"
+   86  git commit -a -m "DropdownList"
+   87  git config --list
+   88  git status
+   89  git log
+   90  git status
+   91  git commit -a
+   92  git remote -v
+   93  git push origin
+   94  git push master
+   95  git push origin master
+   96  git push origin main
+   97  git status
+   98  git add .
+   99  git resert
+  100  git reset
+  101  git commit -a -m "Created Dropedown list"
+  102  git status
+  103  git status
+  104  git commit -a -m "Create Dropdown List"
+  105  git status
+  106  git add .
+  107  git commit -a
+  108  get init
+  109  git init
+  110  git status
+  111  git add .
+  112  git commit -m "First commit"
+  113  git remote add origin http://sict-tfs.mandela.ac.za:8080/tfs/GRP32/_git/CoreCoders
+  114  git push -u origin --all
+  115  git remote add origin http://sict-tfs.mandela.ac.za:8080/tfs/GRP32/_git/CoreCoders
+  116  git push -u origin --all
+  117  git push -u origin --all
+  118  git pull
+  119  git status
+  120  git init
+  121  sit status
+  122  git status
+  123  git push -u origin --all
+  124  git clear
+  125  clear
+  126  git status
+  127  exit
+  128  git status
+  129  git init
+  130  git status
+  131  git add .
+  132  git commit -m "first commt"
+  133  git status
+  134  git log
+  135  git remote add origin http://sict-tfs.mandela.ac.za:8080/tfs/GRP32/_git/CoreCoders
+  136  git push -u origin --all
+  137  git fetch origin master
+  138  git merge origin master
+  139  git status
+  140  got push -u origin --all
+  141  git push -u origin --all
+  142  git pull
+  143  git pull
+  144  git pull
+  145  git merge
+  146  git status
+  147  git commit
+  148  git init
+  149  git add .
+  150  git status
+  151  git commit -m "first commit"
+  152  git remote add origin https://github.com/ThatoTshoma/LMS.git
+  153  git push -u origin main
+  154  git push -u origin master
+  155  git push -u origin master
+  156  git push -u origin master
+  157  git init
+  158  git add .
+  159  git commit -m "first commit"
+  160  git remote add origin https://github.com/ThatoTshoma/Demo.git
+  161  git push -u origin master
+  162  clear
+  163  exit
+  164  git init
+  165  git add .
+  166  git commit -m "first commit"
+  167  git remote add origin https://github.com/ThatoTshoma/3rd-year-Project.git
+  168  git push -u origin master
+  169  get init
+  170  git init
+  171  git remote add origin https://github.com/ThatoTshoma/LMS.git
+  172  git push -u original main
+  173  git push -u origin main
+  174  exit
+  175  git get init
+  176  git init
+  177  add -a
+  178  git remote add origin https://github.com/ThatoTshoma/LMS.git
+  179  git push -u origin master
+  180  git commit -m "first commit"
+  181  git push -u origin
+  182    git push --set-upstream origin master
+  183  git push -u origin main
+  184  git clear
+  185  clean
+  186  exit
+  187  git init
+  188  git add .
+  189  git commit -m "initial commit"
+  190  git remote add origin https://github.com/ThatoTshoma/LMS.git
+  191  git push -u origin master
+  192  git add .
+  193  git commit "Comm All"
+  194  ssh 1ef968660eb4@1ef968660eb4.a11e0f58.alx-cod.online
+  195  ssh 1ef968660eb4@1ef968660eb4.a11e0f58.alx-cod.online
+  196  git rm Task2
+  197  mkdir git-basic-exercises
+  198  cd git-basic-exercises
+  199  ls -a
+  200  git init
+  201  ls -a
+  202  git status
+  203  touch README.md
+  204  ls -a
+  205  git status
+  206  git log
+  207  git add README.md
+  208  git status
+  209  git restore --staged README.md
+  210  git status
+  211  git commit -m "initial commit"
+  212  got log
+  213  git log
+  214  q
+  215  git log
+  216  nano README.md
+  217  y
+  218  nano README.md
+  219  cat README.md
+  220  git status
+  221  git commit -m "second commit"
+  222  nano README.md
+  223  git status
+  224  git commit -m "third commit"
+  225  git log
+  226  mkdir git-basic-exercises
+  227  cd git-basic-exercises
+  228  ls -a
+  229  git init
+  230  ls -a
+  231  git status
+  232  touch README.md
+  233  ls -a
+  234  git status
+  235  git log
+  236  git add README.md
+  237  git status
+  238  git reset README.md
+  239  git status
+  240  git add README.md
+  241  git commit -m "initial commit"
+  242  git log
+  243  nano README.md
+  244  git status
+  245  nano README.md
+  246  nano README.md
+  247  cat README.md
+  248  git status
+  249  git commit -m "second commit"
+  250  nano README.md
+  251  git status
+  252  git commit -m "third commit" 
+  253  git log
+  254  git checkout f87969417fda89e45afcb755632769910d916aa7
+  255  cat README.md
+  256  git checkout main
+  257  git checkout main
+  258  cat README.md
+  259  git branch
+  260  git branch milkshake-flavours
+  261  git branch
+  262  git checkout milkshake-flavours
+  263  git branch
+  264  nano milkshakes.md
+  265  nano milkshakes.md
+  266  nano milkshakes.md
+  267  git status
+  268  git add milkshakes.md
+  269  git commit -m "added initial flavours"
+  270  git log
+  271  git checkout main
+  272  git branch history
+  273  milkshake-flavours
+  274  git branch history
+  275  git checkout history
+  276  history > history.txt
